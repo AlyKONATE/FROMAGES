@@ -1,5 +1,5 @@
 Fromages en France:
-https://data.opendatasoft.com/map/liste_des_fromages_francais/
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/liste_des_fromages_francais/?&static=false&scrollWheelZoom=false"></iframe>
 
 
 You can use the [editor on GitHub](https://github.com/AlyKONATE/FROMAGES/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
